@@ -21,7 +21,8 @@ Conclusion
 How to Use
 Dependencies 
 
-INTRODUCTION
+INTRODUCTION 
+
 Data preprocessing is a critical step in the machine learning pipeline. This project demonstrates how to preprocess data and prepare it for machine learning tasks. It covers handling missing values, encoding categorical variables, feature scaling, and splitting data for training and testing.
 
 Data Preprocessing
@@ -51,9 +52,11 @@ Evaluating the Model
 Model evaluation metrics are calculated to assess the performance of the machine learning model. Common metrics include accuracy, precision, recall, and F1 score.
 
 CONCLUSION
+
 This project demonstrates the essential steps in data preprocessing and preparing data for machine learning tasks. Proper data preprocessing leads to improved model performance and more accurate predictions.
 
 HOW TO USE
+
 Clone the repository:
 git clone https://github.com/MRamya-sri/Data-Preprocessing-ML.git
 Navigate to the project directory:
